@@ -1,2 +1,2 @@
 Use: Encrypt_sub_3DD5E4.py <Password>
-example: pandora1 -->  dxdGFtc7
+Example: pandora1 -->  dxdGFtc7
